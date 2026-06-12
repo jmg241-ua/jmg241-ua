@@ -42,12 +42,19 @@
 
 [Repositorio](https://github.com/jmg241-ua/EasyCab)
 
+### Aplicaciones Web Spring Boot (MADS)
+> Desarrollo ágil con Spring Boot, Spring MVC, JPA/Hibernate y Thymeleaf
+
+- Aplicación TODO List completa con autenticación de usuarios, CRUD de tareas, gestión de equipos, etiquetas y prioridades
+- Pruebas automatizadas (MockMvc, Service, Repository) y CI/CD con GitHub Actions
+- Trabajo en equipo con metodología SCRUM y Git Flow
+
 ---
 
 ## GitHub Stats
 
-![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
+![Joaquín's GitHub stats](https://github-readme-stats-eta-one-82.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats-eta-one-82.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
 
 ---
 
@@ -64,7 +71,7 @@
 
 - **Lenguajes:** Java, C++, JavaScript, Python
 - **Frontend:** React, Angular, Next.js
-- **Backend:** Spring Boot (nociones), Express, Node.js
+- **Backend:** Spring Boot, Express, Node.js
 - **Mensajería:** Apache Kafka
 - **Seguridad:** SSL/TLS, cifrado AES
 - **IA/Automatización:** n8n, DeepSeek, Docker
