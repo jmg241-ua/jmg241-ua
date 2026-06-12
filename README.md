@@ -47,8 +47,9 @@
 
 ## GitHub Stats
 
-![Joaquín's GitHub stats](https://github-readme-stats-eta-one-82.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats-eta-one-82.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/jmg241-ua?style=for-the-badge&logo=github&label=Seguidores&color=181717)
+![GitHub repos](https://img.shields.io/badge/repos-5-181717?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/jmg241-ua?style=for-the-badge&logo=github&label=Estrellas&color=181717)
 
 ---
 
