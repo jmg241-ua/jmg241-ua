@@ -47,10 +47,8 @@
 
 ## GitHub Stats
 
-![Commits](https://img.shields.io/github/commit-activity/t/jmg241-ua/jmg241-ua?style=for-the-badge&label=Commits)
-![PRs](https://img.shields.io/github/issues-pr/jmg241-ua?style=for-the-badge&label=Pull%20Requests)
-![Repos](https://img.shields.io/badge/repos-5-181717?style=for-the-badge&logo=github)
-![Estrellas](https://img.shields.io/github/stars/jmg241-ua?style=for-the-badge&logo=github&label=Estrellas)
+![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
 
 ---
 
