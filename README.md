@@ -3,6 +3,7 @@
 ### Estudiante de Ingeniería Informática | Automatización IA | Backend
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/jmg241-ua)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-mart%C3%ADnez-garc%C3%ADa-829103386/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:joaquinmrtnezgrc@gmail.com)
 [![CV PDF](https://img.shields.io/badge/-Descargar_CV-4285F4?logo=google-drive&logoColor=white)](./cv-joaquin-martinez.pdf)
 
@@ -42,19 +43,12 @@
 
 [Repositorio](https://github.com/jmg241-ua/EasyCab)
 
-### Aplicaciones Web Spring Boot (MADS)
-> Desarrollo ágil con Spring Boot, Spring MVC, JPA/Hibernate y Thymeleaf
-
-- Aplicación TODO List completa con autenticación de usuarios, CRUD de tareas, gestión de equipos, etiquetas y prioridades
-- Pruebas automatizadas (MockMvc, Service, Repository) y CI/CD con GitHub Actions
-- Trabajo en equipo con metodología SCRUM y Git Flow
-
 ---
 
 ## GitHub Stats
 
-![Joaquín's GitHub stats](https://github-readme-stats-eta-one-82.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats-eta-one-82.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
+![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
 
 ---
 
@@ -71,7 +65,7 @@
 
 - **Lenguajes:** Java, C++, JavaScript, Python
 - **Frontend:** React, Angular, Next.js
-- **Backend:** Spring Boot, Express, Node.js
+- **Backend:** Spring Boot (nociones), Express, Node.js
 - **Mensajería:** Apache Kafka
 - **Seguridad:** SSL/TLS, cifrado AES
 - **IA/Automatización:** n8n, DeepSeek, Docker
