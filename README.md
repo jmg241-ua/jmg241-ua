@@ -47,8 +47,8 @@
 
 ## GitHub Stats
 
-![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
+![Joaquín's GitHub stats](https://github-readme-stats-eta-one-82.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats-eta-one-82.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
 
 ---
 
