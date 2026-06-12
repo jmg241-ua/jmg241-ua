@@ -47,7 +47,7 @@
 
 ## GitHub Stats
 
-![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true)
+![Joaquín's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmg241-ua&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jmg241-ua&layout=compact&theme=dark)
 
 ---
