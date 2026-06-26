@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/jmg241-ua)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADn-mart%C3%ADnez-garc%C3%ADa-829103386/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:joaquinmrtnezgrc@gmail.com)
-[![CV PDF](https://img.shields.io/badge/-Descargar_CV-4285F4?logo=google-drive&logoColor=white)](./cv-joaquin-martinez.pdf)
+[![CV PDF](https://img.shields.io/badge/-Descargar_CV-4285F4?logo=google-drive&logoColor=white)](./JOAQUIN-MARTINEZ-GARCIA-CV.pdf)
 
 ---
 
